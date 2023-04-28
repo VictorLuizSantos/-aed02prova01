@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1682706932 source:c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1682706925 source:c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682706938 source:c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1682706917 source:c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+
+1682706719 c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\questao01.h
+
+1682706855 c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\questao02.h
+
+1682706855 c:\users\ifam_cmzl\desktop\-aed02prova01\prova01\questao03.h
+
